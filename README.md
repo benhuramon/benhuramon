@@ -1,5 +1,9 @@
 ### Olá 👋
 Seja bem vindo ao meu perfil!
+Aqui você vai encontrar meus projetos pessoais e projetos coletivos dentro da área de tecnologia.
+Meu objetivo é aprender o máximo e otmizar para que eu possa aplicar e evouluir.
+Trabalho na área de infraestrutura cloud e sou apaixonado por automações e metodologias ágeis.
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
 
