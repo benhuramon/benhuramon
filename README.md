@@ -9,7 +9,7 @@ Trabalho na área de infraestrutura cloud e sou apaixonado por automações e me
 
 - 🔭 SRE | AWS          
 - 📫 benhur.ramon.ti@gmail.com
-- 🌱 Dev Junior | Analista de Infra
+- 🌱 Estudante DEV | Analista de Infra
 - <a href="https://www.linkedin.com/in/benhur-ramon-091a94219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>                
 
