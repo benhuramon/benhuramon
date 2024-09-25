@@ -30,6 +30,7 @@ Trabalho na área de infraestrutura cloud e sou apaixonado por automações e me
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 ### Studying in this moment:
+
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -37,6 +38,7 @@ Trabalho na área de infraestrutura cloud e sou apaixonado por automações e me
 [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#)
 [![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
 <div align="center">
+ 
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{benhuramon}/count.svg" /></p> 
 <br>
