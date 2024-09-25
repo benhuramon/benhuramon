@@ -9,7 +9,7 @@ Trabalho na área de infraestrutura cloud e sou apaixonado por automações e me
 
 - 🔭 SRE | AWS          
 - 📫 benhur.ramon.ti@gmail.com
-- 🌱 Estudante DEV | Analista de Infra
+- 🌱 Code.py
 - <a href="https://www.linkedin.com/in/benhur-ramon-091a94219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>                
 
@@ -25,21 +25,17 @@ Trabalho na área de infraestrutura cloud e sou apaixonado por automações e me
 
  
  ### skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=Html5&labelColor=0D1117&textColor=0D1117)&nbsp;
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-0D1117?style=for-the-badge&logo=Vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-0D1117?style=for-the-badge&logo=Nutx.JS&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Adonis](https://img.shields.io/badge/-Adonis-0D1117?style=for-the-badge&logo=adonis&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)
+[![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#)
+[![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{benhuramon}/count.svg" /></p> 
