@@ -1,8 +1,7 @@
 ### Olá 👋
 Seja bem vindo ao meu perfil!
-Aqui você vai encontrar meus projetos pessoais e projetos coletivos dentro da área de tecnologia.
-Meu objetivo é aprender o máximo e otmizar para que eu possa aplicar e evouluir.
-Trabalho na área de infraestrutura cloud e sou apaixonado por automações e metodologias ágeis.
+
+Aqui você encontrará tanto projetos pessoais quanto colaborativos na área de tecnologia. Sou apaixonado por aprender continuamente, buscando sempre otimizar processos e aplicar novos conhecimentos para evoluir constantemente. Trabalho com infraestrutura em nuvem e tenho um grande interesse em automações e metodologias ágeis, sempre focado em criar soluções eficientes e escaláveis.
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=header"/>
@@ -10,7 +9,7 @@ Trabalho na área de infraestrutura cloud e sou apaixonado por automações e me
 - 🔭 SRE | AWS          
 - 📫 benhur.ramon.ti@gmail.com
 - 🌱 Code.py
-- <a href="https://www.linkedin.com/in/benhur-ramon-091a94219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+- <a href="www.linkedin.com/in/benhur-ramon-lima-74aa552a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>                
 
 
